@@ -48,7 +48,6 @@ info:
     email: apiteam@swagger.io
     url: https://github.com/Redocly/redoc
   x-logo:
-    url: 'https://res.cloudinary.com/drcvi0p39/image/upload/v1615619428/logodoc_tccvat.png'
     altText: Petstore logo
   license:
     name: Apache 2.0
