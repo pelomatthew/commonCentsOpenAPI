@@ -143,6 +143,12 @@ paths:
             }
       requestBody:
         $ref: '#/components/requestBodies/Pet'
+        content:
+          application/json:
+            schema:
+              type: object
+              properties: {}
+        description: test
     put:
       tags:
         - pet
